@@ -1,6 +1,17 @@
-- 👋 Hi, I’m @ThaiBangHOANG
-- 👀 I’m interested in coding and everything that related to code because I am addicted by code, code and code
-- 🌱 I’m fullstack developer free and that is the reason why from the first day of January I available to work.
-- 💞️ I’m looking to collaborate on the developement domain and other domain as well.
-- 📫 How to reach me? You can send me an email to: thaibang1983hn@gmail.com or if you want to join my society on Codewars you can follow this link: https://www.codewars.com/users/quanaotat/completed
-- ThaiBangHOANG/ThaiBangHOANG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Thai Bang HOANG
+
+💻 Fullstack Developer (.NET / Angular) with 4+ years of experience in France  
+🎓 PhD in Computer Science  
+
+🚀 Currently working on personal projects to strengthen my technical skills  
+📍 Based in France — open to opportunities across the country  
+⚡ Available immediately  
+
+## Tech Stack
+- C# / .NET Core / ASP.NET Core  
+- Angular / TypeScript  
+- SQL Server / MySQL  
+- REST API  
+
+## Contact
+📧 thaibang1983hn@gmail.com
