@@ -14,6 +14,30 @@ I like to build clean, reliable, and production-ready web applications.
 
 ---
 
+# Featured Project
+
+Task Management System
+
+A fullstack production-ready web application that allows users to manage tasks with authentication, role-based authorization, and modern UI features.
+
+---
+
+# Live Demo:
+
+Frontend:
+
+https://proud-mud-076774a03.7.azurestaticapps.net
+
+Backend API:
+
+https://thaibang-dcghgrg4bfdaefgd.francecentral-01.azurewebsites.net
+
+Swagger Documentation:
+
+https://thaibang-dcghgrg4bfdaefgd.francecentral-01.azurewebsites.net/swagger
+
+---
+
 # Backend
 
 ASP.NET Core (.NET 8)
@@ -65,30 +89,6 @@ Azure SQL Database
 Git / GitHub
 
 Deployment via Kudu
-
----
-
-# Featured Project
-
-Task Management System
-
-A fullstack production-ready web application that allows users to manage tasks with authentication, role-based authorization, and modern UI features.
-
----
-
-# Live Demo:
-
-Frontend:
-
-https://proud-mud-076774a03.7.azurestaticapps.net
-
-Backend API:
-
-https://thaibang-dcghgrg4bfdaefgd.francecentral-01.azurewebsites.net
-
-Swagger Documentation:
-
-https://thaibang-dcghgrg4bfdaefgd.francecentral-01.azurewebsites.net/swagger
 
 ---
 
