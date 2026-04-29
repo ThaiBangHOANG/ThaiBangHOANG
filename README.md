@@ -4,7 +4,8 @@
 🎓 PhD in Computer Science  
 I like to build clean, reliable, and production-ready web applications.
 
-🚀 I recently completed and deployed a fullstack Task Management System using modern Microsoft technologies and Azure cloud services. This project demonstrates my ability to design, build, secure, and deploy a real-world application end-to-end.  
+🚀 I recently completed and deployed a fullstack Task Management System using modern Microsoft technologies and Azure cloud services. This project demonstrates my ability to design, build, secure, and deploy a real-world application end-to-end. 
+
 📍 Based in France — open to opportunities to .NET Developer, Backend Developer, or Fullstack Developer position in France.  
 ⚡ Available immediately  
 
@@ -12,33 +13,33 @@ I like to build clean, reliable, and production-ready web applications.
 
 Backend
 
-ASP.NET Core (.NET 8)
-REST API development
-Entity Framework Core
-SQL Server
-JWT Authentication
-Role-based Authorization
-Logging (ILogger)
-Exception Handling
-API Design
+ASP.NET Core (.NET 8),
+REST API development,
+Entity Framework Core,
+SQL Server,
+JWT Authentication,
+Role-based Authorization,
+Logging (ILogger),
+Exception Handling,
+API Design.
 
 Frontend
 
-Angular
-TypeScript
-Reactive Forms
-HTTP Client
-Internationalization (ngx-translate)
-Pagination / Filtering / Sorting
+Angular,
+TypeScript,
+Reactive Forms,
+HTTP Client,
+Internationalization (ngx-translate),
+Pagination / Filtering / Sorting.
 
 Cloud & DevOps
 
-Microsoft Azure
-Azure App Service
-Azure Static Web Apps
-Azure SQL Database
-Git / GitHub
-Deployment via Kudu
+Microsoft Azure,
+Azure App Service,
+Azure Static Web Apps,
+Azure SQL Database,
+Git / GitHub,
+Deployment via Kudu.
 
 ## Featured Project
   Task Management System
