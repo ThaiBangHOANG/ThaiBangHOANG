@@ -26,15 +26,15 @@ A fullstack production-ready web application that allows users to manage tasks w
 
 Frontend:
 
-https://proud-mud-076774a03.7.azurestaticapps.net
+https://task-frontend-container.livelywave-91602587.francecentral.azurecontainerapps.io
 
 Backend API:
 
-https://thaibang-dcghgrg4bfdaefgd.francecentral-01.azurewebsites.net
+https://task-api-container.livelywave-91602587.francecentral.azurecontainerapps.io
 
 Swagger Documentation:
 
-https://thaibang-dcghgrg4bfdaefgd.francecentral-01.azurewebsites.net/swagger
+https://task-api-container.livelywave-91602587.francecentral.azurecontainerapps.io/swagger/index.html
 
 ---
 
@@ -80,6 +80,8 @@ Pagination / Filtering / Sorting
 
 Microsoft Azure
 
+Microsoft Azure Container
+
 Azure App Service
 
 Azure Static Web Apps
@@ -87,8 +89,6 @@ Azure Static Web Apps
 Azure SQL Database
 
 Git / GitHub
-
-Deployment via Kudu
 
 ---
 
