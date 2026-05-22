@@ -1,94 +1,66 @@
-# Hi, I'm Thai Bang HOANG
+# Hi, I'm Thai Bang Hoang 👋
 
-💻 Fullstack Developer (.NET / Angular) with 4+ years of experience in France  
+Fullstack developer focused on building scalable and production-oriented applications using .NET, Angular, Docker, and Azure.
 
-🎓 PhD in Informatic
+I enjoy working across the full development lifecycle — from backend APIs and frontend applications to containerization, cloud deployment, and CI/CD automation.
 
-I like to build clean, reliable, and production-ready web applications.
-
-🚀 I recently completed and deployed a fullstack Task Management System using modern Microsoft technologies and Azure cloud services. This project demonstrates my ability to design, build, secure, and deploy a real-world application end-to-end. 
-
-📍 Based in France — open to opportunities to .NET Developer, Backend Developer, or Fullstack Developer position in France.  
-
-⚡ Available immediately  
+Currently exploring:
+- Kubernetes
+- Cloud-native architecture
+- DevOps practices
+- System design
 
 ---
 
-# Featured Project
+## Tech Stack
 
-Task Management System
+### Backend
+- ASP.NET Core 8
+- Entity Framework Core
+- REST APIs
+- JWT Authentication
+- SQL Server
 
-A fullstack production-ready web application that allows users to manage tasks with authentication, role-based authorization, and modern UI features.
+### Frontend
+- Angular
+- TypeScript
+- RxJS
 
----
+### DevOps & Cloud
+- Docker
+- Docker Compose
+- DockerHub
+- GitHub Actions
+- Azure Container Apps
 
-# Live Demo:
+### Currently Learning
+- Kubernetes
+- Helm
+- Azure Container Registry
+- Observability
+- Clean Architecture
 
-Frontend:
+  ---
+  
+## Featured Project
 
-https://task-frontend-container.livelywave-91602587.francecentral.azurecontainerapps.io
+### Task Management System
 
-Backend API:
+Production-oriented fullstack application deployed on Azure Container Apps with Docker and CI/CD pipelines.
 
-https://task-api-container.livelywave-91602587.francecentral.azurecontainerapps.io
+#### Live Demo
+- Frontend:
+  https://task-frontend-container.livelywave-91602587.francecentral.azurecontainerapps.io/login
 
-Swagger Documentation:
+- Swagger API:
+  https://task-api-container.livelywave-91602587.francecentral.azurecontainerapps.io/swagger/index.html
 
-https://task-api-container.livelywave-91602587.francecentral.azurecontainerapps.io/swagger/index.html
+#### Repositories
+- Backend:
+  https://github.com/ThaiBangHOANG/task-management-system
 
----
-
-# Backend
-
-ASP.NET Core (.NET 8)
-
-REST API development
-
-Entity Framework Core
-
-SQL Server
-
-JWT Authentication
-
-Role-based Authorization
-
-Logging (ILogger)
-
-Exception Handling
-
-API Design.
-
----
-
-# Frontend
-
-Angular
-
-TypeScript
-
-Reactive Forms
-
-HTTP Client
-
-Internationalization (ngx-translate)
-
-Pagination / Filtering / Sorting
-
----
-
-# Cloud & DevOps
-
-Microsoft Azure
-
-Microsoft Azure Container
-
-Azure App Service
-
-Azure Static Web Apps
-
-Azure SQL Database
-
-Git / GitHub
+- Frontend:
+  https://github.com/ThaiBangHOANG/Task-management-frontend
 
 ---
 
